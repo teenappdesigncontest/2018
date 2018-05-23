@@ -978,11 +978,11 @@ input:-webkit-autofill:focus {
 }
 
 .top-area .area-bg::after {
-    background: rgba(0, 0, 0, 0) url("img/home/home-wave.svg") no-repeat scroll center center / cover;
+    /*background: rgba(0, 0, 0, 0) url("img/home/home-wave.svg") no-repeat scroll center center / cover;
     bottom: -59px;
     height: 166px;
     top: auto;
-    z-index: 9;
+    z-index: 9;*/
 }
 
 /*----------------------
